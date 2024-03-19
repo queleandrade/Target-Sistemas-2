@@ -1,0 +1,8 @@
+'''
+Primeiro, liga o primeiro interruptor e espera um pouco fora da sala. 
+Depois, desliga o primeiro e liga o segundo, deixando uns minutinhos passarem. 
+Aí entra na sala e dá uma olhada. Se a segunda lâmpada tá acesa, é o segundo interruptor que controla ela. 
+Se a primeira lâmpada que estava acesa tá apagada, o primeiro interruptor controla essa lâmpada. 
+E a que continuar apagada o tempo todo é a que o terceiro interruptor controla. 
+Com só duas idas até lá e mexendo nos interruptores na ordem certa, consegue descobrir. 
+'''
